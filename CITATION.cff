@@ -1,1 +1,10 @@
-
+cff-version: 1.2.0
+message: "If you use this source code, please cite it as below."
+authors:
+  - family-names: Dharmaratne
+    given-names: Malindrie
+    orcid: https://orcid.org/0000-0002-1694-6496
+title: "Code used for the scRNA-seq analysis of the scShapes paper"
+version: 1.0.0
+doi: https://github.com/Malindrie/paper-scShapes
+date-released: 2022-02-15
