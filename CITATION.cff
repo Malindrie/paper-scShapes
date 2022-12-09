@@ -6,5 +6,5 @@ authors:
     orcid: https://orcid.org/0000-0002-1694-6496
 title: "Code used for the scRNA-seq analysis of the scShapes paper"
 version: 1.0.0
-doi: https://github.com/Malindrie/paper-scShapes
-date-released: 2022-02-15
+doi: 10.5281/zenodo.7417556
+date-released: 2022-12-09
